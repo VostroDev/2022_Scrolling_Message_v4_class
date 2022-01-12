@@ -24,6 +24,7 @@ The time and message can be set using the build in webserver.
 * Boards definition - https://arduino.esp8266.com/stable/package_esp8266com_index.json
 * ESP8266 Dev board - https://www.communica.co.za/products/dfr-firebeetle-esp8266-iot-micro
 * Max7219 Dot matrix display - https://www.communica.co.za/products/bmt-4xdot-matrix-module-max7219
+* DS3231 RTC with battery - https://www.fort777.co.za/index.php?main_page=product_info&cPath=1592_1587&products_id=11340
 
 ## Authors
 
