@@ -12,16 +12,16 @@ The display will scroll through a sequence displaying:
 The time and message can be set using the build in webserver.
 
 ## Getting Started
-Project build with Visual Studio Code and PlatformIO.
 
 ![Matrix Display](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/matrix_display.png)
 
 ![Web Server](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/webserver_v2.png)
 
-![Connections](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/ESPMessageBreadBoard.png)
+![Connections](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/ESPMessageBreadBoard3.png)
 
 ### Dependencies
 * Arduino IDE - https://www.arduino.cc/en/software
+* Boards definition - https://arduino.esp8266.com/stable/package_esp8266com_index.json
 * ESP8266 Dev board - https://www.communica.co.za/products/dfr-firebeetle-esp8266-iot-micro
 * Max7219 Dot matrix display - https://www.communica.co.za/products/bmt-4xdot-matrix-module-max7219
 
