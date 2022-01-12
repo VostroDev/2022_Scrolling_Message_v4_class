@@ -19,6 +19,9 @@ The time and message can be set using the build in webserver.
 
 ![Connections](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/ESPMessageBreadBoard3.png)
 
+[![YouTube](http://img.youtube.com/vi/fGqDmvhMRC4/0.jpg)](https://www.youtube.com/watch?v=fGqDmvhMRC4 "Video Title")
+Click to watch on YouTube
+
 ### Dependencies
 * Arduino IDE - https://www.arduino.cc/en/software
 * Boards definition - https://arduino.esp8266.com/stable/package_esp8266com_index.json
