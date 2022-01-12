@@ -1,11 +1,8 @@
-# 2022_Scrolling_Message_v4_class
-files needed for Jan 2022 class project
-
-
 # 2022_ESP32MessageBoard_Neomatrix
 
 ## Description
-This project is intended for use with an ESP32 microcontroller, DS3231 I2C RTC module and 4 8x8 NeoMatrix boards.
+Files needed for class to compete the following project. **THIS CODE IS NOT COMPLETE**
+This project is intended for use with an ESP8266 microcontroller, DS3231 I2C RTC and MAX7219 dot matrix.
 The display will scroll through a sequence displaying:
 * Current Time
 * Temperature
@@ -17,9 +14,9 @@ The time and message can be set using the build in webserver.
 ## Getting Started
 Project build with Visual Studio Code and PlatformIO.
 
-![Matrix Display](https://github.com/VostroDev/2022_ESP32MessageBoard_Neomatrix/blob/master/doc/matrix.png)
+![Matrix Display](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/matrix_display.png)
 
-![Web Server](https://github.com/VostroDev/2022_ESP32MessageBoard_Neomatrix/blob/master/doc/webserver.png)
+![Web Server](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/webserver_v2.png)
 
 ### Dependencies
 * Arduino IDE - https://www.arduino.cc/en/software
