@@ -19,7 +19,7 @@ The time and message can be set using the build in webserver.
 
 ![Connections](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/ESPMessageBreadBoard3.png)
 
-[![YouTube](http://img.youtube.com/vi/fGqDmvhMRC4/0.jpg)](https://www.youtube.com/watch?v=fGqDmvhMRC4 "Video Title")
+[![YouTube](http://img.youtube.com/vi/fGqDmvhMRC4/0.jpg)](https://www.youtube.com/watch?v=fGqDmvhMRC4 "Dot Matrix Clock")
 Click to watch on YouTube
 
 ### Dependencies
