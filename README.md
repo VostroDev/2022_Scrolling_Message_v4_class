@@ -18,7 +18,7 @@ Project build with Visual Studio Code and PlatformIO.
 
 ![Web Server](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/webserver_v2.png)
 
-![Connections](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/ESPMessageBoard_bb.png)
+![Connections](https://github.com/VostroDev/2022_Scrolling_Message_v4_class/blob/main/docs/ESPMessageBreadBoard.png)
 
 ### Dependencies
 * Arduino IDE - https://www.arduino.cc/en/software
