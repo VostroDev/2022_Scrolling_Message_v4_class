@@ -119,6 +119,8 @@ const char timepickerpage[] PROGMEM = R"=====(
           text-align: center;
           font-family:verdana;
           font-weight: bold;
+          background-color: #fff;
+          box-shadow: 0 0 5px #999999;
         }
 
         #container {
